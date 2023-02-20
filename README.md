@@ -9,7 +9,7 @@ Sampling is process of selecting a portion or subset (*known as **sample***), of
 
 ## Implementation of sampling consists of 6 major steps:
 
-Note: Libraries used in the program: [pandas](https://pandas.pydata.org/docs/), [numpy](https://numpy.org/doc/stable/), [imblearn](https://imbalanced-learn.org/stable/).
+Note: Libraries used in the program: [pandas](https://pandas.pydata.org/docs/), [numpy](https://numpy.org/doc/stable/), [imblearn](https://imbalanced-learn.org/stable/), [sklearn](https://scikit-learn.org/stable/)
 
 ### Step - 1
 
